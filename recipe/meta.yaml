@@ -1,4 +1,4 @@
-{% set version = "6.2.0.20260408" %}
+{% set version = "7.0.0.20260503" %}
 
 package:
   name: types-cachetools
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/types-cachetools/types_cachetools-{{ version }}.tar.gz
-  sha256: 0d8ae2dd5ba0b4cfe6a55c34396dd0415f1be07d0033d84781cdc4ed9c2ebc6b
+  sha256: dfa4dcdf453f397dfc6d69fc0a57423ac1f248393f70aa56b5d05fac2df7a96c
 
 build:
   number: 0
